@@ -89,7 +89,7 @@ Exemple avec une connexion saine :
 
 Exemple avec une connexion malveillante détectée :
 
-![Image](https://github.com/user-attachments/assets/201b7652-8e99-47b0-81cf-ede1771e15ad)
+<img width="671" height="4096" alt="Image" src="https://github.com/user-attachments/assets/cbb38752-393a-4ff4-811a-a9a092faf408" />
 
 
 
