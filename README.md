@@ -80,7 +80,7 @@ python app.py
 ```
 Aperçu de l'interface :
 
-![Image](https://github.com/user-attachments/assets/6a197bd8-b43a-4dc0-845c-f37bf1818ca8)
+<img width="1856" height="1680" alt="Image" src="https://github.com/user-attachments/assets/3c9e49a4-a8f3-483f-9aef-8b11132e7ba2" />
 
 Exemple avec une connexion saine :
 
