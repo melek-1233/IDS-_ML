@@ -85,11 +85,11 @@ Aperçu de l'interface :
 Exemple avec une connexion saine :
 
 ![Image](https://github.com/user-attachments/assets/5c6abc4c-ed18-4bc6-a736-00c965046fca)
-
+!
 
 Exemple avec une connexion malveillante détectée :
 
-<img width="671" height="4096" alt="Image" src="https://github.com/user-attachments/assets/cbb38752-393a-4ff4-811a-a9a092faf408" />
+[Image](https://github.com/user-attachments/assets/42406c38-cd8b-4d11-8c22-3330ef588d2b)
 
 
 
